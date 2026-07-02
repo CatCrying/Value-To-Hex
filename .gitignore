@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+push.sh
+deployment-url.txt
+error.txt
 
 # Editor directories and files
 .vscode/*
