@@ -1,0 +1,9 @@
+Vercel CLI 54.18.7 (Node.js 24.17.0)
+
+  Directory       ~/value-to-hex
+
+Loading teams…
+? Which team? (Use arrow keys)
+❯ catbots
+  opztv[?25l[8G
+[?25h
